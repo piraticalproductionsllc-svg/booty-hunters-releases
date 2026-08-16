@@ -2,7 +2,7 @@
   "id": "booty-hunters",
   "title": "Booty Hunters! Digital",
   "description": "Cross-platform Booty Hunters! Digital game system powered by the shared portable rules engine.",
-  "version": "0.2.0-alpha.11",
+  "version": "0.2.0-alpha.12",
   "authors": [
     {
       "name": "Piratical Productions LLC"
@@ -25,5 +25,5 @@
     "units": "ft"
   },
   "manifest": "https://raw.githubusercontent.com/piraticalproductionsllc-svg/booty-hunters-releases/main/system.json",
-  "download": "https://github.com/piraticalproductionsllc-svg/booty-hunters-releases/releases/download/v0.2.0-alpha.11/booty-hunters-foundry-0.2.0-alpha.11.zip"
+  "download": "https://github.com/piraticalproductionsllc-svg/booty-hunters-releases/releases/download/v0.2.0-alpha.12/booty-hunters-foundry-0.2.0-alpha.12.zip"
 }
